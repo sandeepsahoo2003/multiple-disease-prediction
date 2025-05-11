@@ -1,4 +1,3 @@
-Multiple Disease Prediction System
 Dear network,
 
 I'm glad to share that I have completed an end-to-end machine learning project - A Multiple Disease Prediction System.
